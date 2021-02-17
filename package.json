@@ -1,0 +1,23 @@
+{
+  "name": "oit-backend",
+  "version": "1.0.0",
+  "description": "express.js appi, consuming TMDB api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olimejj/oit-backend.git"
+  },
+  "author": "Olimejj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olimejj/oit-backend/issues"
+  },
+  "homepage": "https://github.com/Olimejj/oit-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
